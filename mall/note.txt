@@ -1,4 +1,4 @@
-
+--0801
 JAP : Java Persistence API
 	=> Java ORM API 표준
 	=> Object Relational Mapping
@@ -86,10 +86,20 @@ Querydsl
 mave repository > querydsl-jpa / querydsl-apt
 	
 	
+--0802
+
+Thymeleaf 타임리프
+
+boot에서는 templates 여기가 html 주소
 	
+xmlns:th="http://www.thymeleaf.org" 타임리프 적용 (html에서)
+xmlnamespacs = xmlns	
 	
-	
-	
+
+Spring Security 적용하기
+회원가입이나 로그인 로그아웃에 적용
+회원 역할에 따라서 권한을 달리하여
+접근할 수 있는 페이지를 다르게 할 수 있음	
 	
 	
 	
