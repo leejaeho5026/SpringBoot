@@ -12,3 +12,13 @@
       board13 검색기능
       board14 댓글 Comment 추가
       board15 Comment 질문글에 댓글 확인
+
+
+# mall프로젝트
+      mall10 로그인 로그아웃 설정
+      mall11 order, Cart 설정 Join
+      mall15 상품업로드,사진업로드
+      mall16 상품수정
+      mall17 상품등록, 수정 완성
+      mall18 상품조회하기
+      
