@@ -12,6 +12,7 @@
       board13 검색기능
       board14 댓글 Comment 추가
       board15 Comment 질문글에 댓글 확인
+      board16 Comment 질문글, 답변글 댓글 기능 추가
 
 
 # mall프로젝트
